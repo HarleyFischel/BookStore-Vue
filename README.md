@@ -20,7 +20,7 @@ npm run build
 npm run build --report
 ```
 
-####Development configuration
+### Development configuration
 ``` js
 // config/dev.env.js
 
@@ -30,7 +30,7 @@ module.exports = merge(prodEnv, {
 })
 ```
 
-####Production configuration
+### Production configuration
 ``` js
 // config/prod.env.js
 
