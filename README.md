@@ -1,2 +1,2 @@
 # BookStore-Vue
-BookStore using Vue
+BookStore frontend interface using Vue
