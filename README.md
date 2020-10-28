@@ -39,3 +39,15 @@ module.exports = {
   API_URL: '"http://app.azii.io"'
 }
 ```
+
+### Hosted Examples
+
+#### LAMP server - api: app.azii.io
+``` js
+http://vue.azii.io
+```
+
+#### AWS E2 Instance - api: app.ezii.io
+``` js
+http://vue.ezii.io
+```
