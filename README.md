@@ -46,8 +46,12 @@ module.exports = {
 ``` js
 http://vue.azii.io
 ```
+http://vue.azii.io
+
 
 #### AWS E2 Instance - api: app.ezii.io
 ``` js
 http://vue.ezii.io
 ```
+http://vue.ezii.io
+
